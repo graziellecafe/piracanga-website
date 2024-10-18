@@ -3,7 +3,7 @@ import styled from "styled-components";
 import section from "../../images/section.png";
 
 export const Container = styled.div`
-  margin-top: 10%;
+  margin-top: 0;
   display: flex;
   justify-content: center;
   align-items: center;
